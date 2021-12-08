@@ -1,6 +1,9 @@
 Line 1 of file 1 - time : 12:25:00
 Line 2 of file 1 - time : 12:25:00
 Line 3 of file 1 - time : 12:25:00
-Line 4 of file 1 - time : 12:26:00
+Changes for the secondRepo : 12:56:00
 Line 5 of file 1 - time : 12:26:00
 Line 6 of file 1 - time : 12:26:00
+
+
+New line added to file 1 - time : 12:26:00
